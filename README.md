@@ -3,6 +3,8 @@
 EXCODER is an open-source Python IDE that integrates AI-assisted development with traditional code editing. Built using Tkinter, it features Groq's language models (LLaMA 3) for natural language code generation, file operations, and code analysis.
 
 This project is designed for developers who want AI collaboration while maintaining full control over their workflow. It supports multiple programming languages, making it a versatile tool for coding with AI assistance.
+# USAGE 
+**OPEN A FOLDER AND CLICK ON A FILE, OR OPEN EMPTY FOLDER THEN GO TO THE CHAT**
 
 ## Features
 
