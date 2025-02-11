@@ -22,6 +22,6 @@ This project is designed for developers who want AI collaboration while maintain
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/your-username/EXCODER.git
+git clone https://github.com/BROKENISTXD/EXCODER.git
 cd EXCODER
 pip install -r requirements.txt
